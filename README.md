@@ -9,7 +9,9 @@ Data Engineering and Machine Learning enthusiast currently pursuing **MSc Engine
 **Featured Projects**
 
 • **Lakehouse ETL Pipeline** — PySpark • Delta Lake • Airflow
+
 • **Medallion Data Pipeline** — PySpark • PostgreSQL • Docker
+
 • **Sports Data Processing Pipeline** — Python • Pandas • Data Cleaning
 
 📫 LinkedIn: linkedin.com/in/shubhrajit-pal
