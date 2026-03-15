@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Shubhrajit Pal.
 
-<!--
-**spal1995/spal1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering and Machine Learning enthusiast currently pursuing MSc Engineering & Management.
 
-Here are some ideas to get you started:
+Key Interests
+• Data Engineering
+• Machine Learning
+• Distributed Data Systems
+• Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+Lakehouse ETL Pipeline
+PySpark, Delta Lake, Airflow, Docker
+
+Medallion Data Pipeline
+PySpark, PostgreSQL, Docker
+
+Sports Data Processing Pipeline
+Python, Pandas, Data Cleaning
